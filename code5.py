@@ -1,0 +1,10 @@
+#Q5a
+color=['Red','Green','White','Black','Pink','Yellow']
+color.remove('Black')
+print('color:',color)
+#Q5b
+color=['Red','Green','White','Black','Pink','Yellow']
+x='Purple'
+color[3]=x
+color[4]=x
+print(color)
